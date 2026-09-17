@@ -7,7 +7,7 @@
 ### ¿Que es un programa informático?
 Un programa informático es un conjunto de instrucciones u ordenes establecidas por  un programador en un lenguaje de programación que un ordenador interpreta para satisfacer las necesidades de un usuario 
 
-#### Iformación obtenida de:
+#### Información obtenida de:
 
 [Sintaxis de Markdown Tutorialdemarkdown.com](https://tutorialmarkdown.com/sintaxis)
 
