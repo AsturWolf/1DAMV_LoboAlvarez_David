@@ -1,4 +1,4 @@
-![Banner horizontal](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/blob/main/Images/bannerazul.jpg)
+![Banner horizontal](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/blob/main/Images/banner-azul.jpg)
 ## **1DAMV_LoboAlvarez_David** 
 
 [Enlace a mi repositorio de github](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/tree/main)
