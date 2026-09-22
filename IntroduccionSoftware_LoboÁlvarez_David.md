@@ -15,27 +15,27 @@ Es el codigo intermedio entre el codigo fuente y el codigo ejecutable, la maquin
 ####Codigo ejecutable:
 También conocido como código máquina, es directamente leido por el ordenador, el cual lo carga en ram y procede a su ejecución. Es el resultado de enlazar el código objeto con las bibliotecas y rutinas necesarias.
 
-###Etapas del desarrollo del software:
-####PLanificación y Análisis
+### Etapas del desarrollo del software:
+#### PLanificación y Análisis
 Se analiza la el soware que se quiere crear y se hace una planificación incial
 
-####Diseño
+#### Diseño
 Se divide en sistema y se determina la función de cada parte.
 Se determina con que herramientas se va a trabajar.
 
-####Programación
+#### Programación
 Se escribe el codigo fuente y en caso de ser necesario, tras compilarlo se obtiene el código ejecutable.
 
-####Pruebas
+#### Pruebas
 Se unen todas las partes del sistema y se comprueba su funcionalidad.
 
-####Implementación
+#### Implementación
 Se instala, configura y prueba el software en los equipos del cliente.
 
-####Mantenimiento
+#### Mantenimiento
 Se realizan correcciones y se implementan caracteristicas nuevas
 
-####Documentación
+#### Documentación
 La documentación esta presente durante el resto de etapas.
 Cada una de las etapas es documentada y se guarda la información
 
