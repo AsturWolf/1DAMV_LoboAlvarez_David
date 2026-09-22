@@ -1,3 +1,4 @@
+![Banner horizontal]()
 ## **1DAMV_LoboAlvarez_David** 
 
 [Enlace a mi repositorio de github](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/tree/main)
@@ -48,5 +49,6 @@ Cada una de las etapas es documentada y se guarda la información
 [Wikipedia Programa Informático](https://es.wikipedia.org/wiki/Programa_inform%C3%A1tico)
 
 [GOIB educación docimentacion ED](https://sarreplec.caib.es/pluginfile.php/11297/mod_resource/content/10/ED01_Contenidos_Web/72_clasificacin_de_los_lenguajes_de_programacin.html)
+[Pagina de la que saqué el banner](https://www.magnific.com/es/fotos-vectores-gratis/horizontal-background-banner)
 
 ![Mar de nueves en altu del Gamoniteiru](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f52c00b55ab0a0819f10e9eec6d28e56c57984a1.jpeg)
