@@ -1,4 +1,4 @@
-![Banner horizontal](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/blob/main/Images/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg)
+![Banner horizontal](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/blob/main/Images/bannerazul.jpg)
 ## **1DAMV_LoboAlvarez_David** 
 
 [Enlace a mi repositorio de github](https://github.com/AsturWolf/1DAMV_LoboAlvarez_David/tree/main)
