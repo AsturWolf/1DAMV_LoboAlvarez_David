@@ -8,7 +8,7 @@
 Un programa informático es un conjunto de instrucciones u ordenes establecidas por  un programador en un lenguaje de programación que un ordenador interpreta y ejecuta para el cometido que el desarrollador determine.
 
 ### Diferencia entre código fuente, código objeto y código ejecutable.
-#### Código fuente:
+#### **Código fuente:**
 Es el codigo que el programador diseña, la maquina no puede entenderlo, contiene las instrucciones que la maquina tiene que seguir.
 #### Código objeto:
 Es el codigo intermedio entre el codigo fuente y el codigo ejecutable, la maquina ya puede entenderlo pero no puede ejecutarlo, se aleja de laforma de leer el codigo por parte del programador. Solo se genera cuando el codigo fuente no contiene errores.
